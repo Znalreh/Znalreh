@@ -30,18 +30,7 @@
 
 ---
 
-## 🧠 Languages & Frameworks
 
-* C
-* HTML
-* Java
-* JavaScript
-* Kotlin
-* XML
-* React.js
-* React + Vite
-
----
 
 ## 📊 GitHub Stats
 
