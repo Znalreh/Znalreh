@@ -1,8 +1,4 @@
-# 👋 Hi, Znalreh
 
-💻 Passionate Developer
-🚀 Exploring modern web and software development
-🌏 Based in the Philippines
 
 ---
 
@@ -28,13 +24,7 @@
 
 </p>
 
----
 
-
-
-
-
----
 
 ## 🔥 Current Focus
 
