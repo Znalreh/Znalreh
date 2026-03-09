@@ -4,7 +4,7 @@
 
 ## 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
 
@@ -38,35 +38,32 @@
 
 <p align="left">
 
-<a href="https://github.com/Znalreh" target="_blank">
+<a href="" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://facebook.com/YOURFACEBOOK" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40"/>
+<a href="" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://discord.com/users/YOURDISCORDID" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40" height="40"/>
+<a href="" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://reddit.com/u/YOURREDDIT" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" width="40" height="40"/>
+<a href="" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://instagram.com/YOURINSTAGRAM" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40"/>
+<a href="" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://x.com/YOURX" target="_blank">
+<a href="" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40"/>
 </a>
 
-<a href="https://youtube.com/@YOURCHANNEL" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="40" height="40"/>
+<a href="" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
 </a>
 
 </p>
-
-
-⭐ Thanks for visiting my profile!
