@@ -36,8 +36,37 @@
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/Znalreh
+<p align="left">
 
----
+<a href="https://github.com/Znalreh" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://facebook.com/YOURFACEBOOK" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40"/>
+</a>
+
+<a href="https://discord.com/users/YOURDISCORDID" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40" height="40"/>
+</a>
+
+<a href="https://reddit.com/u/YOURREDDIT" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" width="40" height="40"/>
+</a>
+
+<a href="https://instagram.com/YOURINSTAGRAM" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40"/>
+</a>
+
+<a href="https://x.com/YOURX" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40"/>
+</a>
+
+<a href="https://youtube.com/@YOURCHANNEL" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="40" height="40"/>
+</a>
+
+</p>
+
 
 ⭐ Thanks for visiting my profile!
